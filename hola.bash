@@ -15,6 +15,7 @@ start:
 # your script goes here...
 foo:
 firefox
+hola.bash
 goto foo
 
 
